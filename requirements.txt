@@ -1,0 +1,4 @@
+flask==2.0.2
+textblob==0.15.3
+tensorflow==2.6.0
+tensorflow-text==2.6.0
